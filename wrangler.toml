@@ -1,4 +1,4 @@
-name = "edwork"
+name = "edxt"
 main = "_worker.js"
 compatibility_date = "2026-06-09"
 keep_vars = true
